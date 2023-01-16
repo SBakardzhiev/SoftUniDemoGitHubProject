@@ -1,10 +1,16 @@
-class cat {
+class Cat {
     name;
     age;
 }
 
-class dog {
+class Dog {
     name;
     age;
     breed;
+}
+
+class Rabbit {
+    neame;
+    age;
+    color;
 }
